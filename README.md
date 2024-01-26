@@ -9,7 +9,7 @@ I'm akikoeth from Hong Kong 🇭🇰, a dev inspired to change things and to lea
 
 - 🔭 I'm currently working in some crypto projects coding with Solidity the Smart Contracts, and also I work in the front-end of the project using Next.JS and TypeScript
 
-- 🌱 I’m currently learning Rust, and more Solidity, and most importantly on how to audit contracts to make them as secure as possible ...
+- 🌱 I’m currently learning Rust, and most importantly on how to audit contracts to make them as secure as possible ...
 
 <br clear="left">
 
